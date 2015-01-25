@@ -1,6 +1,6 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
+excerpt: "Glaser Lo's blog."
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: header.jpg
