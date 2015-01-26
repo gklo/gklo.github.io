@@ -8,7 +8,7 @@ url:
 # Jekyll configuration
 
 permalink:   /:categories/:title/
-markdown:    kramdown
+markdown:    redcarpet
 highlighter: pygments
 sass:
   sass_dir: _sass
@@ -42,7 +42,7 @@ owner:
   bing-verify: 
   github: gklo
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: glaser-lo
+  linkedin: glaserlo
   instagram: #username
   lastfm: #username
   tumblr: #username
