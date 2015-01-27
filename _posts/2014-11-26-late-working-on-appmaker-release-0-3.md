@@ -3,9 +3,9 @@ layout: post
 title: "[Late] Working on appmaker (Release 0.3)"
 date: 2014-11-26 00:43:47.000000000 -05:00
 categories:
-- open source
+- open-source
 tags:
-- open source
+- open-source
 status: publish
 type: post
 published: true
@@ -29,11 +29,11 @@ For Release 0.3, in order to have different experience, I chose a bigger project
 
 ##Previous pull request for 0.2 (since I forgot put the link into 0.2 blog post)
 
-<https://github.com/mozillafordevelopment/webmaker-app/pull/386>  
+<https://github.com/mozillafordevelopment/webmaker-app/pull/386>
 
-<br/>The first problem I encounter is an error about "loginHost for webmaker-auth":
+The first problem I encounter is an error about "loginHost for webmaker-auth":
 
-```bash
+{% highlight bash %}
 Warning: PUBLISH_HOST is unset. See README.md for more info.
 Warning: ASSET_HOST is unset. See README.md for more info.
 
@@ -50,14 +50,14 @@ Error: (webmaker-auth): secretKey was not passed into webmaker-auth
  at Function.Module.runMain (module.js:497:10)
  at startup (node.js:119:16)
  at node.js:906:3
-```
+{% endhighlight %}
 
 However, this took me a whole week to figure out how to fix the problem... End up the reason I got this because I forgot to do one step:
 
-```bash
+{% highlight bash %}
 cp sample.env .env
-```
+{% endhighlight %}
 
-Really, it is too important to follow every single step in README.md, especially for big project.  
+Really, it is too important to follow every single step in README.md, especially for big project.
 
-<br/>In this release. I also found a really easier way to search for elements on the page.  When I want to get the code that handles the close button on tab, I can simply search for the title/alt, "Delete this card", to get the file that contains the code.
+In this release. I also found a really easier way to search for elements on the page.  When I want to get the code that handles the close button on tab, I can simply search for the title/alt, "Delete this card", to get the file that contains the code.

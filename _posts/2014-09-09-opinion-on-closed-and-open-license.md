@@ -3,9 +3,9 @@ layout: post
 title: Opinion on Closed and Open License
 date: 2014-09-09 11:00:47.000000000 -04:00
 categories:
-- open source
+- open-source
 tags:
-- open source
+- open-source
 status: publish
 type: post
 published: true
@@ -17,8 +17,8 @@ meta:
 
 ###Opinion on licenses - Apple’s license and GPL
 
-Mac OSX 10.9 license:  <a href="http://images.apple.com/legal/sla/docs/OSX109.pdf">http://images.apple.com/legal/sla/docs/OSX109.pdf</a>
-<br/>GPL:  <a href="http://opensource.org/licenses/GPL-3.0">http://opensource.org/licenses/GPL-3.0</a>
+Mac OSX 10.9 license:  <a href="http://images.apple.com/legal/sla/docs/OSX109.pdf">http://images.apple.com/legal/sla/docs/OSX109.pdf</a>  
+GPL:  <a href="http://opensource.org/licenses/GPL-3.0">http://opensource.org/licenses/GPL-3.0</a>
 
 <ul>
 <li>Proprietary licenses are incredibly long to cover every single detail of their product for protecting both their company and customers. There is even a different agreement especially for each product or each release of the product. On the other side, open licenses are usually one page long and generally apply to all software</li>

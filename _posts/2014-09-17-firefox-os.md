@@ -3,9 +3,9 @@ layout: post
 title: Firefox OS
 date: 2014-09-17 20:12:41.000000000 -04:00
 categories:
-- open source
+- open-source
 tags:
-- open source
+- open-source
 status: publish
 type: post
 published: true
@@ -23,6 +23,6 @@ meta:
   geo_public: '0'
 ---
 
-<a title="Firefox OS" href="https://www.mozilla.org/en-US/firefox/os/" target="_blank">Firefox OS</a> is the topic I am going to research for OSD600 Case study.  This project was started a few years old with a codename of "Boot2Gecko".  Mozilla, the non-profit company who made Firefox, brings their successful browser engine to mobile platform and create a whole new operating system with Linux and open web standards.  For App developers, Firefox OS allows them easily create apps with HTML, CSS, javascript, and WebAPIs.  As the nature of open source project, manufacturers can produce very low cost smartphones with Firefox OS. It benefits people who are not able to afford expensive smarthphones and help them to join the era driven by mobile computing.
+<a title="Firefox OS" href="https://www.mozilla.org/en-US/firefox/os/" target="_blank">Firefox OS</a> is the topic I am going to research for OSD600 Case study.  This project was started a few years old with a codename of "Boot2Gecko".  Mozilla, the non-profit company who made Firefox, brings their successful browser engine to mobile platform and create a whole new operating system with Linux and open web standards.  For App developers, Firefox OS allows them easily create apps with HTML, CSS, javascript, and WebAPIs.  As the nature of open-source project, manufacturers can produce very low cost smartphones with Firefox OS. It benefits people who are not able to afford expensive smarthphones and help them to join the era driven by mobile computing.
 
-<br/> Since I like how Mozilla make Firefox flexible and stable and their action to keep pushing open web forward, I am quite interested in their new OS project and see what it will bring out in us.
+Since I like how Mozilla make Firefox flexible and stable and their action to keep pushing open web forward, I am quite interested in their new OS project and see what it will bring out in us.

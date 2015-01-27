@@ -3,9 +3,9 @@ layout: post
 title: Case Study on Firefox OS
 date: 2014-12-11 02:36:35.000000000 -05:00
 categories:
-- open source
+- open-source
 tags:
-- open source
+- open-source
 status: publish
 type: post
 published: true
@@ -57,7 +57,7 @@ Project homepage
 
 Gonk: <a href="https://github.com/mozilla-b2g/B2G" target="_blank">https://github.com/mozilla-b2g/B2G</a>  
 Gaia: <a href="https://github.com/mozilla-b2g/gaia" target="_blank">https://github.com/mozilla-b2g/gaia</a>  
-Gecko: <a href="https://github.com/mozilla/gecko-dev " target="_blank">https://github.com/mozilla/gecko-dev </a>(Read-only)  
+Gecko: <a href="https://github./om/mozilla/gecko-dev " target="_blank">https://github.com/mozilla/gecko-dev </a>(Read-only)  
 <a href="https://hg.mozilla.org/" target="_blank">https://hg.mozilla.org/</a>  
 
 
@@ -67,7 +67,7 @@ Gecko: <a href="https://github.com/mozilla/gecko-dev " target="_blank">https://g
 
 ![Alt Andres Picture](https://gklo.files.wordpress.com/2014/12/andreas-gal_mozilla-final_9_24_131.jpg)
 
-<br/>The Director of Research at Mozilla Corporation
+The Director of Research at Mozilla Corporation
 
 <ul>
 <li>Originally announce Boot2Gecko project on the mozilla.dev.platform mailing list in 2011</li>
@@ -105,10 +105,10 @@ Gecko: <a href="https://github.com/mozilla/gecko-dev " target="_blank">https://g
 
 ###Mailling list
 
-<http://groups.google.com/group/mozilla.dev.platform>
-<br/><https://lists.mozilla.org/listinfo/dev-tech-layout>
-<br/><http://groups.google.com/group/mozilla.dev.tech.layout>
-<br/>IRC: irc.mozilla.org #B2G
+<http://groups.google.com/group/mozilla.dev.platform>  
+<https://lists.mozilla.org/listinfo/dev-tech-layout>  
+<http://groups.google.com/group/mozilla.dev.tech.layout>  
+IRC: irc.mozilla.org #B2G
 
 ##The importance of the project
 

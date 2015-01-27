@@ -1,5 +1,5 @@
 ---
 layout: home
-excerpt: "Glaser Lo's blog."
+excerpt: "Illusion Village"
 tags: [Jekyll, theme, responsive, blog, template]
 ---

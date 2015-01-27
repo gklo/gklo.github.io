@@ -3,9 +3,9 @@ layout: post
 title: "[Late] Build Firefox on Windows 8.1"
 date: 2014-12-11 01:24:24.000000000 -05:00
 categories:
-- open source
+- open-source
 tags:
-- open source
+- open-source
 status: publish
 type: post
 published: true
@@ -29,22 +29,22 @@ To Build firefox on Windows 8.1, there are a few steps needed.
 
 Build it by running:
 
-```
+{% highlight bash %}
 ./mach build
-```
+{% endhighlight %}
 
 Finally, Runs it:
 
-```
+{% highlight bash %}
 ./mach run
-```
+{% endhighlight %}
 
 Thanks to Mozilla, the whole building process is pretty smooth without any configurations. :)
 
-<br/>![Alt screenshot1](https://gklo.files.wordpress.com/2014/12/ff1.png)
+![Alt screenshot1](https://gklo.files.wordpress.com/2014/12/ff1.png)
 
-<br/>![Alt screenshot2](https://gklo.files.wordpress.com/2014/12/ff2.png)
+![Alt screenshot2](https://gklo.files.wordpress.com/2014/12/ff2.png)
 
-<br/>![Alt screenshot3](https://gklo.files.wordpress.com/2014/12/ff3.png)
+![Alt screenshot3](https://gklo.files.wordpress.com/2014/12/ff3.png)
 
-<br/>Done!
+Done!
