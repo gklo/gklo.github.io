@@ -9,6 +9,7 @@ tags:
 status: publish
 type: post
 published: true
+comments: true
 ---
 Last week, I had an adventure of compiling XMPToolkit with NDK.  It was a long and terrible trial.  In order to compile it with NDK, there were few existing resources to use:
 
